@@ -1,0 +1,25 @@
+{
+  "name": "simonsays5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mndowne/simonsays.git"
+  },
+  "depenencies":{
+    "express":"*"
+  },
+  "engines":{
+    "node":"*"
+  },
+  "author": "mndowne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mndowne/simonsays/issues"
+  },
+  "homepage": "https://github.com/mndowne/simonsays#readme"
+}
