@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mndowne/simonsays.git"
   },
-  "depenencies":{
+  "dependencies":{
     "express":"*"
   },
   "engines":{
