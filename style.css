@@ -138,6 +138,7 @@ h1 {
 
 #middle {
   position: absolute;
+  font-family: "Shrikhand", cursive;
   background-color: #968c78;
   height: 300px;
   width: 300px;
@@ -168,6 +169,7 @@ h1 {
 
 #simon {
   position: relative;
+  font-size: 28px;
   text-align: center;
   width: 90px;
   left: 32%; }
@@ -183,6 +185,7 @@ h1 {
 
 #startButton {
   position: relative;
+  font-size: 12px;
   left: 25%;
   bottom: 20px;
   background-color: #c8c8b4;
@@ -201,6 +204,7 @@ h1 {
 #strictButton {
   position: relative;
   left: 59%;
+  font-size: 12px;
   bottom: 66px;
   background-color: #c8c8b4;
   height: 30px;
@@ -216,25 +220,26 @@ h1 {
   position: relative;
   left: 30%;
   bottom: 25%;
+  font-family: "Shrikhand", cursive;
   background-color: #0f2314;
   height: 35%;
   width: 37%;
   border-radius: 10px;
   color: #64ff64;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center; }
   #countDisplay p {
     padding-top: 5%; }
   @media screen and (max-width: 600px) {
     #countDisplay {
-      font-size: 34px;
+      font-size: 26px;
       height: 35%; }
       #countDisplay p {
         padding-top: 5%; } }
   @media screen and (max-width: 500px) {
     #countDisplay {
       bottom: 35%;
-      font-size: 27px; } }
+      font-size: 20px; } }
   @media screen and (max-width: 400px) {
     #countDisplay {
       bottom: 5%;
